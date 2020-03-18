@@ -17,6 +17,8 @@ import org.jengineering.sjmply.PLYType;
 public class IcosahedronModel extends LXModel {
   private static final Logger logger = Logger.getLogger(IcosahedronModel.class.getName());
 
+  public static int pointsWide;
+  public static int pointsHigh;
   public static double minX = Float.MAX_VALUE;
   public static double minY = Float.MAX_VALUE;
   public static double maxX = Float.MIN_VALUE;
@@ -90,12 +92,14 @@ public class IcosahedronModel extends LXModel {
       allPoints.addAll(lb.points);
     }
 
-    model = new IcosahedronModel(allPoints, lightBars);
+    model = new IcosahedronModel(allPoints, lightBars, pointsWide, pointsHigh);
     return model;
   }
 
-  public IcosahedronModel(List<LXPoint> points, List<LightBar> lightBars) {
+  public IcosahedronModel(List<LXPoint> points, List<LightBar> lightBars,int width, int height) {
     super(points);
+    pointsWide = width;
+    pointsHigh =  height;
     // Compute some stats on our points.
     int pointCount = 0;
     for (LXPoint p : points) {
@@ -107,6 +111,8 @@ public class IcosahedronModel extends LXModel {
     }
 
     logger.info("Total points: " + pointCount);
+    logger.info("pointsWide: " + pointsWide);
+    logger.info("pointsHigh: " + pointsHigh);
 
     computedWidth = maxX - minX;
     computedHeight = maxY - minY;
