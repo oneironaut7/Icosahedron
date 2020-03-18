@@ -1,0 +1,40 @@
+noomechanism.icosahedron.IcosahedronModel: Wed Mar 18 00:47:32 EDT 2020 [INFO] Total points: 4500
+noomechanism.icosahedron.IcosahedronModel: Wed Mar 18 00:47:32 EDT 2020 [INFO] pointsWide: 0
+noomechanism.icosahedron.IcosahedronModel: Wed Mar 18 00:47:32 EDT 2020 [INFO] pointsHigh: 0
+noomechanism.icosahedron.Icosahedron: Wed Mar 18 00:47:32 EDT 2020 [INFO] Current renderer:processing.opengl.PGraphics3D
+noomechanism.icosahedron.Icosahedron: Wed Mar 18 00:47:32 EDT 2020 [INFO] Current graphics:processing.opengl.PGraphics3D@415f657f
+noomechanism.icosahedron.Icosahedron: Wed Mar 18 00:47:32 EDT 2020 [INFO] Current graphics is GL:true
+noomechanism.icosahedron.Icosahedron: Wed Mar 18 00:47:33 EDT 2020 [INFO] Added pattern: class noomechanism.icosahedron.patterns.Rainbow
+noomechanism.icosahedron.PropertyFile: Wed Mar 18 00:47:33 EDT 2020 [INFO] PropertyFile loaded successfully from pixliteconfig.json
+noomechanism.icosahedron.PropertyFile: Wed Mar 18 00:47:33 EDT 2020 [INFO] PropertyFile saved successfully to pixliteconfig.json
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Using ArtNet: 169.254.203.100:6454
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=0 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=1 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=2 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=3 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=4 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=5 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=6 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=7 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=8 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=9 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=10 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=11 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=12 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=13 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=14 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=15 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=16 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=17 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=18 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=19 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=20 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=21 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=22 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=23 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=24 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=25 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=26 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=27 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=28 points=150
+noomechanism.icosahedron.Output: Wed Mar 18 00:47:33 EDT 2020 [INFO] Adding datagram: universe=29 points=150
